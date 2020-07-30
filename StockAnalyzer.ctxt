@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StockAnalyzer
+comment0.text=\r\n\ This\ class\ allows\ users\ to\ go\ through\ the\ process\ of\ stock\ evaluation.\r\n\ Performs\ calculations\ for\ them,\ as\ they\ navigate\ through\ yahoo\ finance.\r\n
+comment1.params=mc\ mni
+comment1.target=double\ calcPE(double,\ double)
+comment1.text=\r\n\ Calculated\ growth\ PE.\ \r\n\ @param\ mc\ This\ is\ the\ user\ input\ of\ the\ market\ cap.\r\n\ @param\ mni\ This\ is\ the\ user\ input\ of\ the\ margin\ net\ income.\r\n\ @return\ calculated\ PE.\r\n
+comment2.params=mni\ mg\ ni
+comment2.target=double\ calcgMarketcap(double,\ double,\ double)
+comment2.text=\r\n\ Calculated\ growth\ Marketcap.\r\n\ @param\ mni\ This\ is\ the\ user\ input\ of\ the\ margin\ net\ income.\r\n\ @param\ mg\ This\ is\ the\ user\ input\ of\ their\ predicted\ margin\ percentage\ growth.\r\n\ @param\ ni\ This\ is\ the\ user\ input\ of\ their\ prediction\ of\ years\ of\ margin\ growth.\r\n\ @return\ calculated\ growth\ market\ cap.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ This\ is\ the\ main\ program\ that\ accepts\ user\ input\ and\ displays\ calculations.\ \r\n\ @param\ args\ Unused.\r\n\ @return\ Content\ in\ the\ console.\r\n
+numComments=4

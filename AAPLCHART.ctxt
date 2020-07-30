@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AAPLCHART
+comment0.text=\r\n\ This\ class\ displays\ the\ chart\ of\ Apple's\ closing\ stock\ price.\r\n\ Gives\ users\ an\ example\ of\ a\ stock\ graph.\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\ \r\n\ This\ method\ is\ used\ to\ start\ and\ create\ the\ aapl\ graph\ using\ data\ from\ yahoo\ finance.\r\n\ \r\n\ @param\ stage\ \r\n\ @return\ stage,\ (the\ graph)\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\ \r\n\ This\ method\ is\ largely\ ignored\ as\ main\ is\ used\ as\ a\ fallback\ for\ JavaFx.\r\n\ @param\ args\r\n\ @return\ Nothing.\r\n
+numComments=3
